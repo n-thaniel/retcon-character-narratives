@@ -11,4 +11,4 @@ Retcon new narratives for your favorite characters so book authors don't have to
 2. Pick a specific narrative
 
 ## Version 3
-1. Post their narrative on Twitter
+1. Post their narrative on Twitter, should contain relevant hashtags to character and @ the book author :)
